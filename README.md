@@ -12,6 +12,7 @@ Data analysis was performed using MATLAB codes written by a team composed of :
  - Sebastien Delcasso (from AquiNeuro)
 
 
-
+The project has not been published yet so the code is still not publicly available 
+However I put some figures to exemplify the work in progress. 
 
  
