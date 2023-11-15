@@ -1,18 +1,22 @@
-# Matlab_Dopa_Behavior_Classification
+README: 
 
-I collected Data for this project at NutriNeuro lab a Neuroscience laboratory form INARE (Bordeaux, France) 
-in the team of research scientist lead by Pierre Trifilieff
-I used the optic fiber photometry data aquisition system 
-Subject of the study: Mice on which I did perform brain implant sugery
-Data of the study: Wavelenght intensity signal fromn dLight expressing neurons in the Nucleus accumbens of the Basal Ganglia. 
-Protocol was validated by Ethic comity. 
+Data Collection:
+The data was obtained using an optic fiber photometry data acquisition system. The study involved mice that underwent brain implant surgery, and the collected data comprises wavelength intensity signals from dLight expressing neurons in the Nucleus accumbens of the Basal Ganglia.
 
-Data analysis was performed using MATLAB codes written by a team composed of : 
- - Julien Catanese (me) 
- - Sebastien Delcasso (from AquiNeuro)
+Ethics and Validation:
+The experimental protocol underwent validation by the Ethics Committee before implementation.
 
+Data Analysis:
+The MATLAB code utilized for data analysis was developed by a team consisting of:
+- Julien Catanese (myself)
+- Sebastien Delcasso (from AquiNeuro)
 
-The project has not been published yet so the code is still not publicly available 
-However I put some figures to exemplify the work in progress. 
+Code Availability:
+Please note that as this project has not been published yet, 
+the code remains unavailable to the public. 
 
- 
+However, a few figures have been included to illustrate the ongoing work.
+
+This repository serves as an exemplar of the ongoing analysis, showcasing the project's progress.
+
+Feel free to add more details or specify any particular sections you'd like to highlight within this README!
